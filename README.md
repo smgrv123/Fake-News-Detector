@@ -23,6 +23,7 @@ What things you need to install the software and how to install them:
 
 1. Download this git repository.
 2. In CMD change the directory to the folder where this project is saved in your machine and type below command and press enter.
+3. Link to the <a href="https://drive.google.com/file/d/1o0V9swp9sHay2xyW5wpv9XRIL3UoHshS/view?usp=sharing" > training CSV</a>
   
   ```
   python predict.py
